@@ -1,4 +1,4 @@
-# Fuel Efficiency Deep Learning Project 🚗
+# Fuel Efficiency Deep Learning Project 
 
 This project predicts vehicle fuel efficiency (MPG) using Deep Learning techniques.
 
